@@ -1,0 +1,159 @@
+Name:Tombstone1
+Character:Tombstone
+Line:Yorel, Level 2 Henchman
+Line:Joined the Party - Lunes 7, 1409
+Line:Left the Party - Lunes 10, 1409
+Line:Achievements unlocked - Redshirt
+Name:Tombstone2
+Character:White Mage
+Line:Oh Yorel.
+Line:You left the party so soon.
+Line:You were gallant, brave... young.
+Name:Tombstone3
+Character:White Mage
+Line:If only Thief didn't steal
+Line:all those kills from you?
+Line:You could have leveled up.
+Name:Tombstone4
+Character:White Mage
+Line:What if Paladin would have used
+Line:a defense up potion on you?
+Line:But no, he had to save it for
+Line:the boss battle.
+Name:Tombstone5
+Character:White Mage
+Line:You were an expendable resource
+Line:to the party, but you were a friend
+Line:to me. 
+Name:Arrest1
+Character:Darthen
+Line:You there. Halt!
+Name:Arrest2
+Character:Darthen
+Line:I Darthen, captain of the guard,
+Line:are placing you under arrest
+Line:by the authority of the magistrate.
+Name:Arrest2a
+Character:Darthen
+Line:Resisting arrest will get you nowhere.
+Name:Arrest2b
+Character:White Mage
+Line:I'm not.  I just..
+Name:Arrest3
+Character:White Mage
+Line:Tamalia, Lana
+Line:What is the meaning of this?
+Name:Arrest4
+Character:Tamalia
+Line:It's just that...
+Name:Arrest5
+Character:Darthen
+Line:You are under arrest for murder.
+Name:Title1
+Character:White Mage
+Line:No, I didn't!
+Name:Person1a
+Character:Tavern Patron
+Line:So, Like, do you have any original songs,
+Line:or is it all just covers?
+Name:Person1a
+Character:Bard
+Line:Just Covers tonight, m'lady.
+Line:I do have an original demo 
+Line:album coming out soon though.
+Name:Person1a
+Character:Tavern Patron
+Line:When is that going to be?
+Name:Person1a
+Character:Bard
+Line:As soon as I can find a drummer,
+Line:a singer... and someone to finance it.
+Line:Anyone up for a soulful rendition
+Line:of Stairway to Valhalla?
+Name:Person1a
+Character:Bartender
+Line:Not in my bar!  Read the sign above the mantle:
+Line:"No Stairway to Valhalla"
+Name:Person2a
+Character:Bar Patron 2
+Line:Thanks bro, that song you played is 
+Line:certain to get that red-head home
+Line:with me tonight.
+Name:Person3a
+Character:Bar Patron 3
+Line:Ugh, that smelly oaf keeps fawning
+Line:over me.  I'm just here for girl's 
+Line:night out.
+Name:Person4a
+Character:Bar Patron 4
+Line:Lovely performance, mate!
+Name:Person5a
+Character:Bar Patron 5
+Line:You know, with each ale you sound better
+Line:and better
+Name:Person5b
+Character:Bar Patron 5
+Line:Ain't makin' you prettier though.
+Name:Person6a
+Character:Bar Patron 6
+Line:zzzzzzzz...hm?
+Name:Person6b
+Character:Bar Patron 6
+Line:I'm good! I'm not a lightweight!
+Line:I'll drink you under the table!
+Name:Person6c
+Character:Bar Patron 6
+Line:zzzzzz...
+Name:Person7a
+Character:Bar Patron 7
+Line:This is a great place to drown
+Line:your sorrows. Done lost my wife,
+Line:my kids, and my home.  
+Name:Person7b
+Character:Bar Patron 7
+Line:Farming kobolds don't pay what it used to.
+Name:Bartender1
+Character:Bartender
+Line:Good crowd tonight! Winter is good for business.
+Name:Person8a
+Character:Bar Patron 8
+Line:Heard tales of goblin raids in the 
+Line:eastern borders.  Good thing a band of 
+Line:adventurers cleared them out.
+Name:Person8b
+Character:Bar Patron 8
+Line:Thank goodness for heroes like them.
+Name:Person9a
+Character:Bar Patron 9
+Line:Can't believe the news that Paladin,
+Line:stalwart protector of the land, died
+Line:up in the mountains.
+Name:Person9b
+Character:Bar Patron 9
+Line:Good thing our clerics could 
+Line:resurrect him.
+Name:Person9c
+Character:Bar Patron 9
+Line:We weren't sure if you could 
+Line:resurrect them gingers on the
+Line:count that they don't have a soul.
+Name:Person9d
+Character:Bar Patron 9
+Line:Hope he didn't lose too much XP
+Line:for it.
+Name:AdventurerGroup1
+Character:Wizard
+Line:Yes, waiter... ale for my friends here.
+Line:I'll have tea- Earl Gray...hot.
+Name:AdventurerGroup2
+Character:Bard
+Line:I'm... I'm not a waiter, sir wizard. I'm <%BardName%>
+Line:the bard. I was wondering if you are
+Line:adventurers?
+Name:AdventurerGroup3
+Character:Wizard
+Line:No, we are simply migrants passing through.
+Name:AdventurerGroup4
+Character:Dwarf
+Line:Oh yes, we are adventurers! best
+Line:of the best in fact!

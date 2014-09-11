@@ -1,0 +1,8 @@
+C:\Users\Daniel\Dropbox\Projects\DungeonCourt\DungeonCourt\bin\Debug\DungeonCourt.exe
+C:\Users\Daniel\Dropbox\Projects\DungeonCourt\DungeonCourt\bin\Debug\DungeonCourt.pdb
+C:\Users\Daniel\Dropbox\Projects\DungeonCourt\DungeonCourt\bin\Debug\DungeonCourt.xml
+C:\Users\Daniel\Dropbox\Projects\DungeonCourt\DungeonCourt\obj\x86\Debug\DungeonCourt.Resources.resources
+C:\Users\Daniel\Dropbox\Projects\DungeonCourt\DungeonCourt\obj\x86\Debug\DungeonCourt.exe
+C:\Users\Daniel\Dropbox\Projects\DungeonCourt\DungeonCourt\obj\x86\Debug\DungeonCourt.xml
+C:\Users\Daniel\Dropbox\Projects\DungeonCourt\DungeonCourt\obj\x86\Debug\DungeonCourt.pdb
+C:\Users\Daniel\Dropbox\Projects\DungeonCourt\DungeonCourt\obj\x86\Debug\DungeonCourt.vbproj.GenerateResource.Cache
